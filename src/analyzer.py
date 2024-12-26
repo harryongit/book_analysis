@@ -5,6 +5,7 @@ from scipy import stats
 from typing import Dict, Any
 import logging
 
+
 class BookAnalyzer:
     def __init__(self, df: pd.DataFrame):
         self.df = df
