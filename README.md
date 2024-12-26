@@ -105,13 +105,6 @@ book_analysis/
     └── api.md       # API documentation
 ```
 
-## 📊 Sample Visualizations
-
-### Rating Distribution
-![Rating Distribution](/images/rating_dist.png)
-
-### Genre Popularity
-![Genre Popularity](/images/genre_pop.png)
 
 ## 🎯 Key Insights Generated
 
