@@ -5,6 +5,8 @@
 
 A comprehensive data analysis project that scrapes book data, processes it, and generates insights about reading trends, author performance, and genre popularity. Perfect for data analysts, book enthusiasts, and anyone interested in literary analytics.
 
+![bookana](https://github.com/user-attachments/assets/3bfa9843-e32e-487a-8e41-3258cfb80a2a)
+
 ## 🌟 Features
 
 ### Data Collection
