@@ -19,3 +19,20 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+data/raw/*
+data/processed/*
+data/visualizations/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/visualizations/.gitkeep
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
