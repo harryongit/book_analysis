@@ -30,6 +30,7 @@ A comprehensive data analysis project that scrapes book data, processes it, and 
 - Time-series trend analysis
 - Review correlation plots
 
+
 ## 🚀 Quick Start
 
 ### Prerequisites
