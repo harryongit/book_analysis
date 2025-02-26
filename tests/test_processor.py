@@ -7,7 +7,6 @@ from src.data_processor import DataProcessor
 class TestDataProcessor(unittest.TestCase):
     def setUp(self):
         self.processor = DataProcessor()
-        
         # Create sample data
         self.sample_data = pd.DataFrame({
             'title': ['Book1', 'Book2', 'Book3'],
@@ -19,7 +18,7 @@ class TestDataProcessor(unittest.TestCase):
         
     def test_clean_data(self):
         cleaned_df = self.processor.clean_data(self.sample_data)
-        
+      
         # Check if NaN values are removed
         self.assertEqual(len(cleaned_df), 2)
         
