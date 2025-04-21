@@ -7,7 +7,6 @@ A comprehensive data analysis project that scrapes book data, processes it, and 
 
 ![bookana](https://github.com/user-attachments/assets/3bfa9843-e32e-487a-8e41-3258cfb80a2a)
 
-
 ## 🌟 Features
 
 ### Data Collection
