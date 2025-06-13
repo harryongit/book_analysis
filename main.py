@@ -2,7 +2,8 @@
 def main():
     # Initialize scraper
     scraper = BookScraper('https://example-book-site.com')
-    
+
+
     # Scrape data
     books_data = scraper.scrape_book_data(num_pages=10)
     scraper.save_to_csv(books_data, 'raw_books.csv')
